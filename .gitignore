@@ -1,2 +1,6 @@
 # node_modules
 /node_modules
+# .cz-config.js
+/.cz-config.js
+# .vscode
+/.vscode
